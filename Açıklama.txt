@@ -1,8 +1,0 @@
-* Sistemi direk olarak kullandýðýnýz siteye
-/admin ya da /yonetimpaneli  gibi bir klasör oluþturup atýnýz
-
-* Sitenizi hacklemek ya da eriþmek isteyen kiþi bu adrese girdiðinde bir giriþ ekraný ile karþýlaþacak
-
-* Kullanýcý adý ve þifre kýsmýna "admin" yazarak girmeyi denediði an bilgisarýna fuckyou adlý bir not inecek.
-
-* Eriþmeye çalýþan kiþinin bilgileri de log dosyasýnda tutulmaktadýr
